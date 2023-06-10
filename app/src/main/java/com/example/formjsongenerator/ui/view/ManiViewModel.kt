@@ -1,4 +1,4 @@
-package com.example.formjsongenerator
+package com.example.formjsongenerator.ui.view
 
 import androidx.lifecycle.ViewModel
 import com.example.formjsongenerator.data.FakeData
